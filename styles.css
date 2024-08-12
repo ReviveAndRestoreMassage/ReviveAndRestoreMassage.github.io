@@ -5,11 +5,11 @@ body {
 }
 
 .menu-container {
-    position: relative;
+    position: fixed;
 }
 
 .menu-button {
-    position: absolute;
+    position: fixed;
     top: 10px;
     left: 10px;
     font-size: 80px;
